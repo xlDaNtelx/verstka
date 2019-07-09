@@ -1,0 +1,10 @@
+node_modules
+.vscode
+.idea/
+.cache/
+dist
+
+backgroundBundle.js
+contentBundle.js
+popupAuthBundle.js
+popupPreferencesBundle.js

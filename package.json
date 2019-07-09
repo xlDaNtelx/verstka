@@ -1,0 +1,13 @@
+{
+  "name": "verstka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xlDaNtelx/verstka.git",
+  "author": "denys mohylin <dmohylin@bizico.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
